@@ -1,0 +1,5 @@
+- 👋 Olá eu sou @Gustavo-M-Annibal
+- 👀 Tenho o interesse em ser um desenvolverdor Backend
+- 🌱 Atualmente no 2 semestre de engenharia de sotfware na UNIFCV
+- 📫 Disponivel para contato em gustavoannibal456@gmail.com
+- ⚡ Ainda iniciando na area e aprendendo a utilizar o git 
